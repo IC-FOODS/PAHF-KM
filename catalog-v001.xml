@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1516927379603" name="duplicate:http://www.semanticweb.org/chiaracecchini/ontologies/2017/5/pafkm" uri="PAFKM_CCecchini.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1516927379603" name="duplicate:http://www.semanticweb.org/chiaracecchini/ontologies/2017/5/pafkm" uri="PAFKM.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1516927379603" name="duplicate:http://www.semanticweb.org/chiaracecchini/ontologies/2017/5/pafkm" uri="PAFKM_Ontology.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1516927379603" name="duplicate:http://www.semanticweb.org/chiaracecchini/ontologies/2017/5/pafkm" uri="Untitled.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1534313364699" name="http://purl.obolibrary.org/obo/pahf2.owl" uri="PAHF.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1534313364699" name="http://www.semanticweb.org/chiaracecchini/ontologies/2018/4/untitled-ontology-52" uri="Fitness%20Ontology.owl"/>
     </group>
 </catalog>
